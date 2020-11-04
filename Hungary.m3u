@@ -1,23 +1,21 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Zenebutik.hu",Zenebutik
 http://iptvlive.stream:80/p/1071144/c/1/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Fem3.hu",Fem3
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Fem3.hu",Fem3
 http://iptvlive.stream:80/p/1071144/c/2/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Humor+.hu",TV2 Comedy
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Humor+.hu",TV2 Comedy
 http://iptvlive.stream:80/p/1071144/c/3/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Galaxy.hu",Galaxy/4
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Galaxy.hu",Galaxy/4
 http://iptvlive.stream:80/p/1071144/c/4/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_CartoonNetworkTCM.hu",Cartoon Network
 http://iptvlive.stream:80/p/1071144/c/5/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_SpilerTV.hu",Spiler2 HD
 http://iptvlive.stream:80/p/1071144/c/8/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_JockyTV.hu",Jocky Tv
+#EXTINF:-1 group-title="1" tvg-id="1767993021_JockyTV.hu",Jocky Tv
 http://iptvlive.stream:80/p/1071144/c/9/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Moziverzum.hu",Moziverzum
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Moziverzum.hu",Moziverzum
 http://iptvlive.stream:80/p/1071144/c/10/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_NationalGeographic.hu",National Geographic
-http://iptvlive.stream:80/p/1071144/c/11/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatNature.hu",Viasat Nature HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatNature.hu",Viasat Nature HD
 http://iptvlive.stream:80/p/1071144/c/12/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_JimJam.hu",Jim Jam
 http://iptvlive.stream:80/p/1071144/c/13/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -31,47 +29,47 @@ http://iptvlive.stream:80/p/1071144/c/18/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/1071144/c/19/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport2.hu",Sport2 HD hu
 http://iptvlive.stream:80/p/1071144/c/20/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Spektrum.hu",Spektrum HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Spektrum.hu",Spektrum HD
 http://iptvlive.stream:80/p/1071144/c/22/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_OzoneNetwork.hu",Ozone HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_OzoneNetwork.hu",Ozone HD
 http://iptvlive.stream:80/p/1071144/c/23/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Lifenetwork.hu",Life hu
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Lifenetwork.hu",Life hu
 http://iptvlive.stream:80/p/1071144/c/24/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cool.hu",Cool Tv HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cool.hu",Cool Tv HD
 http://iptvlive.stream:80/p/1071144/c/26/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmPlus.hu",Film+ HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmPlus.hu",Film+ HD
 http://iptvlive.stream:80/p/1071144/c/27/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_RTLKlub.hu",Rtl Klub HD
 http://iptvlive.stream:80/p/1071144/c/28/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_AMC.hu",AMC HU
+#EXTINF:-1 group-title="1" tvg-id="1767993021_AMC.hu",AMC HU
 http://iptvlive.stream:80/p/1071144/c/29/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport1.hu",Digi Sport3 HD
 http://iptvlive.stream:80/p/1071144/c/30/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MusicChannel.hu",Music Channel HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MusicChannel.hu",Music Channel HD
 http://iptvlive.stream:80/p/1071144/c/31/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_SpilerTV.hu",Spiler1 HD
 http://iptvlive.stream:80/p/1071144/c/32/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_InvestigationDiscovery.hu",Investigation Discovery
+#EXTINF:-1 group-title="1" tvg-id="1767993021_InvestigationDiscovery.hu",Investigation Discovery
 http://iptvlive.stream:80/p/1065888/c/1/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport2.hu",Sport2 Hu
 http://iptvlive.stream:80/p/1059602/c/1/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport1.hu",Sport1 Hu
 http://iptvlive.stream:80/p/1059602/c/2/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_TVPaprika.hu",TV Paprika
+#EXTINF:-1 group-title="1" tvg-id="1767993021_TVPaprika.hu",TV Paprika
 http://iptvlive.stream:80/p/1059602/c/3/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SpektrumHome.hu",Spektrum Home
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SpektrumHome.hu",Spektrum Home
 http://iptvlive.stream:80/p/1059602/c/4/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Spektrum.hu",Spektrum
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Spektrum.hu",Spektrum
 http://iptvlive.stream:80/p/1059602/c/5/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cool.hu",Cool TV
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cool.hu",Cool TV
 http://iptvlive.stream:80/p/1059602/c/6/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmPlus.hu",Film+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmPlus.hu",Film+
 http://iptvlive.stream:80/p/1059602/c/7/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_RTLGold.hu",RTL Gold
+#EXTINF:-1 group-title="1" tvg-id="1767993021_RTLGold.hu",RTL Gold
 http://iptvlive.stream:80/p/1059602/c/8/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_RTLplus.hu",RTL+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_RTLplus.hu",RTL+
 http://iptvlive.stream:80/p/1059602/c/9/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Sorozat.hu",Sorozat+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Sorozat.hu",Sorozat+
 http://iptvlive.stream:80/p/1059602/c/10/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_MuzsikaTV.hu",Muzsika TV
 http://iptvlive.stream:80/p/1059602/c/11/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -87,29 +85,29 @@ http://iptvlive.stream:80/p/1059602/c/15/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/1059602/c/16/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_HirTV.hu",hir TV
 http://iptvlive.stream:80/p/1059602/c/17/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SuperTV2.hu",SUPER RTL
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SuperTV2.hu",SUPER RTL
 http://iptvlive.stream:80/p/1059602/c/24/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Minimax.hu",Minimax
 http://iptvlive.stream:80/p/1059602/c/28/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Film4.hu",Film Cafe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Film4.hu",Film Cafe
 http://iptvlive.stream:80/p/1059602/c/29/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna2.hu",DUNA WORLD
 http://iptvlive.stream:80/p/1059602/c/30/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna2.hu",Duna World HD
 http://iptvlive.stream:80/p/1059602/c/31/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Viasat3.hu",VIASAT 3
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Viasat3.hu",VIASAT 3
 http://iptvlive.stream:80/p/1059602/c/32/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_VIASAT6.hu",VIASAT6
+#EXTINF:-1 group-title="1" tvg-id="1767993021_VIASAT6.hu",VIASAT6
 http://iptvlive.stream:80/p/1059602/c/33/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatHistory.hu",Viasat History
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatHistory.hu",Viasat History
 http://iptvlive.stream:80/p/1059602/c/34/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatExplorer.hu",Viasat Explore
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatExplorer.hu",Viasat Explore
 http://iptvlive.stream:80/p/1059602/c/35/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_RTLKlub.hu",RTL Klub
 http://iptvlive.stream:80/p/1059602/c/36/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_OzoneNetwork.hu",OzoneTV
+#EXTINF:-1 group-title="1" tvg-id="1767993021_OzoneNetwork.hu",OzoneTV
 http://iptvlive.stream:80/p/1059602/c/38/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Lifenetwork.hu",Life hu
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Lifenetwork.hu",Life hu
 http://iptvlive.stream:80/p/1059602/c/39/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_PAXTV.hu",PAX TV
 http://iptvlive.stream:80/p/1059602/c/40/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -121,9 +119,9 @@ http://iptvlive.stream:80/p/1059602/c/42/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/1059602/c/43/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport2.hu",DIGI Sport 2 HD
 http://iptvlive.stream:80/p/1059602/c/44/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MusicChannel.hu",Music Channel
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MusicChannel.hu",Music Channel
 http://iptvlive.stream:80/p/1059602/c/45/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Htmusicchannel.hu",H!T Music Channel
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Htmusicchannel.hu",H!T Music Channel
 http://iptvlive.stream:80/p/1059602/c/46/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_m1.hu",M1 HD hu
 http://iptvlive.stream:80/p/1059602/c/47/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -133,149 +131,147 @@ http://iptvlive.stream:80/p/1059602/c/48/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/1059602/c/49/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna.hu",DUNA HD
 http://iptvlive.stream:80/p/1059602/c/50/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Prime.hu",Prime
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Prime.hu",Prime
 http://iptvlive.stream:80/p/1059602/c/51/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MoziPlus.hu",Mozi+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MoziPlus.hu",Mozi+
 http://iptvlive.stream:80/p/1059602/c/52/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel",FIT
 http://iptvlive.stream:80/p/1059602/c/53/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel",FIT HD
 http://iptvlive.stream:80/p/1059602/c/57/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_RTL2.hu",RTL2
+#EXTINF:-1 group-title="1" tvg-id="1767993021_RTL2.hu",RTL2
 http://iptvlive.stream:80/p/1059602/c/58/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiAnimalWorld.hu",DIGI Animal World
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiAnimalWorld.hu",DIGI Animal World
 http://iptvlive.stream:80/p/1059602/c/59/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiAnimalWorld.hu",DIGI Animal World HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiAnimalWorld.hu",DIGI Animal World HD
 http://iptvlive.stream:80/p/1059602/c/60/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiLife.hu",DIGI Life
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiLife.hu",DIGI Life
 http://iptvlive.stream:80/p/1059602/c/61/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiLife.hu",DIGI Life HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiLife.hu",DIGI Life HD
 http://iptvlive.stream:80/p/1059602/c/62/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiWorld.hu",DIGI World
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiWorld.hu",DIGI World
 http://iptvlive.stream:80/p/1059602/c/63/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiWorld.hu",DIGI World HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiWorld.hu",DIGI World HD
 http://iptvlive.stream:80/p/1059602/c/64/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatNature.hu",Viasat Nature
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatNature.hu",Viasat Nature
 http://iptvlive.stream:80/p/1059602/c/65/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_TV4.hu",TV4 hu
+#EXTINF:-1 group-title="1" tvg-id="1767993021_TV4.hu",TV4 hu
 http://iptvlive.stream:80/p/1059602/c/66/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_HISTORY.hu",Story4
+#EXTINF:-1 group-title="1" tvg-id="1767993021_HISTORY.hu",Story4
 http://iptvlive.stream:80/p/1059602/c/67/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SonyMovieChannel.hu",Sony Movie Channel
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SonyMovieChannel.hu",Sony Movie Channel
 http://iptvlive.stream:80/p/1059602/c/68/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SonyMax.hu",Sony Max
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SonyMax.hu",Sony Max
 http://iptvlive.stream:80/p/1059602/c/69/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_tv2.hu",TV2 HD hu
 http://iptvlive.stream:80/p/1059602/c/70/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SuperTV2.hu",SuperTV2 HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SuperTV2.hu",SuperTV2 HD
 http://iptvlive.stream:80/p/1059602/c/71/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SuperTV2.hu",Super TV2
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SuperTV2.hu",Super TV2
 http://iptvlive.stream:80/p/1059602/c/72/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport1.hu",Sport1 Hu HD
 http://iptvlive.stream:80/p/1059602/c/73/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport2.hu",Sport2 Hu HD
 http://iptvlive.stream:80/p/1059602/c/74/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Spektrum.hu",Spektrum HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Spektrum.hu",Spektrum HD
 http://iptvlive.stream:80/p/1059602/c/75/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Bonumtv.hu",Bonum TV
 http://iptvlive.stream:80/p/1059602/c/76/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmMania.hu",Film Mania
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmMania.hu",Film Mania
 http://iptvlive.stream:80/p/1059602/c/77/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_OzoneNetwork.hu",Ozone TV HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_OzoneNetwork.hu",Ozone TV HD
 http://iptvlive.stream:80/p/1059602/c/78/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Lifenetwork.hu",Life TV HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Lifenetwork.hu",Life TV HD
 http://iptvlive.stream:80/p/1059602/c/79/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cool.hu",Cool TV HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cool.hu",Cool TV HD
 http://iptvlive.stream:80/p/1059602/c/80/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmPlus.hu",Film+ HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmPlus.hu",Film+ HD
 http://iptvlive.stream:80/p/1059602/c/82/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_RTLKlub.hu",RTL Klub HD
 http://iptvlive.stream:80/p/1059602/c/83/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_AMC.hu",AMC hu
-http://iptvlive.stream:80/p/1059602/c/84/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Film4.hu",M4 HD
 http://iptvlive.stream:80/p/1059602/c/86/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport3.hu",DIGI Sport 3
 http://iptvlive.stream:80/p/1059602/c/87/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport3.hu",DIGI Sport 3 HD
 http://iptvlive.stream:80/p/1059602/c/88/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MusicChannel.hu",Music Channel HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MusicChannel.hu",Music Channel HD
 http://iptvlive.stream:80/p/1059602/c/89/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_m5.hu",M5
 http://iptvlive.stream:80/p/1059602/c/90/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_m5.hu",M5 HD
 http://iptvlive.stream:80/p/1059602/c/91/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_IzauraTV.hu",Izaura TV
+#EXTINF:-1 group-title="1" tvg-id="1767993021_IzauraTV.hu",Izaura TV
 http://iptvlive.stream:80/p/1059602/c/92/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_SpilerTV.hu",Spiler TV HD
 http://iptvlive.stream:80/p/1059602/c/93/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ChiliTV.hu",LiChi TV
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ChiliTV.hu",LiChi TV
 http://iptvlive.stream:80/p/1059602/c/94/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="-100406463_digi308",TV2 Kids
 http://iptvlive.stream:80/p/1059602/c/95/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiLife.hu",DIGI Life HU
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiLife.hu",DIGI Life HU
 http://iptvlive.stream:80/p/969790/c/3/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DiscoveryChannel.hu",Discovery RO
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DiscoveryChannel.hu",Discovery RO
 http://iptvlive.stream:80/p/969790/c/5/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Prime.hu",Prime
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Prime.hu",Prime
 http://iptvlive.stream:80/p/969790/c/6/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MoziPlus.hu",Mozi+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MoziPlus.hu",Mozi+
 http://iptvlive.stream:80/p/969790/c/8/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Film4.hu",Film Cafe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Film4.hu",Film Cafe
 http://iptvlive.stream:80/p/969790/c/9/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cinemax.hu",Cinemax
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cinemax.hu",Cinemax
 http://iptvlive.stream:80/p/969790/c/11/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cbsreality.hu",CBS Reality
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cbsreality.hu",CBS Reality
 http://iptvlive.stream:80/p/969790/c/12/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatHistory.hu",Viasat History
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatHistory.hu",Viasat History
 http://iptvlive.stream:80/p/969790/c/13/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_PAXTV.hu",Pax TV
 http://iptvlive.stream:80/p/969790/c/15/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SuperTV2.hu",Super TV2
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SuperTV2.hu",Super TV2
 http://iptvlive.stream:80/p/969790/c/19/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatHistory.hu",Viasat History HU
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatHistory.hu",Viasat History HU
 http://iptvlive.stream:80/p/969790/c/25/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiWorld.hu",DIGI World
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiWorld.hu",DIGI World
 http://iptvlive.stream:80/p/969790/c/27/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna.hu",Duna tv
 http://iptvlive.stream:80/p/945923/c/1/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_HirTV.hu",Hír tv
 http://iptvlive.stream:80/p/945923/c/2/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmCafe.hu",Filmcafe HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmCafe.hu",Filmcafe HD
 http://iptvlive.stream:80/p/945923/c/9/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_TVPaprika.hu",tv paprika
+#EXTINF:-1 group-title="1" tvg-id="1767993021_TVPaprika.hu",tv paprika
 http://iptvlive.stream:80/p/945923/c/10/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MoziPlus.hu",Mozi+ HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MoziPlus.hu",Mozi+ HD
 http://iptvlive.stream:80/p/945923/c/11/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiLife.hu",Digi Life
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiLife.hu",Digi Life
 http://iptvlive.stream:80/p/945923/c/12/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiAnimalWorld.hu",Digi AnimalWorld HD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiAnimalWorld.hu",Digi AnimalWorld HD
 http://iptvlive.stream:80/p/945923/c/13/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiAnimalWorld.hu",Digi AnimalWorld
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiAnimalWorld.hu",Digi AnimalWorld
 http://iptvlive.stream:80/p/945923/c/14/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_RTL2.hu",RTL2
+#EXTINF:-1 group-title="1" tvg-id="1767993021_RTL2.hu",RTL2
 http://iptvlive.stream:80/p/945923/c/15/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiWorld.hu",Digi World
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiWorld.hu",Digi World
 http://iptvlive.stream:80/p/945923/c/16/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna2.hu",Duna World
 http://iptvlive.stream:80/p/945923/c/17/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_VIASAT6.hu",Viasat 6
+#EXTINF:-1 group-title="1" tvg-id="1767993021_VIASAT6.hu",Viasat 6
 http://iptvlive.stream:80/p/945923/c/18/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatHistory.hu",Viasat History
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatHistory.hu",Viasat History
 http://iptvlive.stream:80/p/945923/c/19/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatExplorer.hu",Viasat Explore
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatExplorer.hu",Viasat Explore
 http://iptvlive.stream:80/p/945923/c/20/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_tv2.hu",TV2 hu
 http://iptvlive.stream:80/p/945923/c/21/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_MagyarATV.hu",ATV hu
 http://iptvlive.stream:80/p/945923/c/22/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SonyMax.hu",Sony Max
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SonyMax.hu",Sony Max
 http://iptvlive.stream:80/p/945923/c/26/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmPlus.hu",FILM+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmPlus.hu",FILM+
 http://iptvlive.stream:80/p/945923/c/27/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SuperTV2.hu",SuperTV2
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SuperTV2.hu",SuperTV2
 http://iptvlive.stream:80/p/945923/c/28/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cool.hu",COOL
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cool.hu",COOL
 http://iptvlive.stream:80/p/945923/c/35/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport2.hu",DIGI SPORT 2 HD
 http://iptvlive.stream:80/p/945923/c/36/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -287,29 +283,29 @@ http://iptvlive.stream:80/p/945923/c/38/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/945923/c/39/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport1.hu",digi sport2 hd
 http://iptvlive.stream:80/p/945923/c/40/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_DigiWorld.hu",digi world
+#EXTINF:-1 group-title="1" tvg-id="1767993021_DigiWorld.hu",digi world
 http://iptvlive.stream:80/p/945923/c/41/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna.hu",duna tv
 http://iptvlive.stream:80/p/945923/c/43/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Duna2.hu",DUNA WORLD HD
 http://iptvlive.stream:80/p/945923/c/44/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Film4.hu",FILM CAFE
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Film4.hu",FILM CAFE
 http://iptvlive.stream:80/p/945923/c/46/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmMania.hu",FILM MANIA
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmMania.hu",FILM MANIA
 http://iptvlive.stream:80/p/945923/c/47/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel",FIT HD
 http://iptvlive.stream:80/p/945923/c/53/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel",Fit SD
 http://iptvlive.stream:80/p/945923/c/54/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Htmusicchannel.hu",H!T Music Channel
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Htmusicchannel.hu",H!T Music Channel
 http://iptvlive.stream:80/p/945923/c/60/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_IzauraTV.hu",IZAURA TV
+#EXTINF:-1 group-title="1" tvg-id="1767993021_IzauraTV.hu",IZAURA TV
 http://iptvlive.stream:80/p/945923/c/61/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_KiwiTV.hu",KIWI TV
 http://iptvlive.stream:80/p/945923/c/62/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ChiliTV.hu",LICHI TV
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ChiliTV.hu",LICHI TV
 http://iptvlive.stream:80/p/945923/c/64/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Lifenetwork.hu",life tv
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Lifenetwork.hu",life tv
 http://iptvlive.stream:80/p/945923/c/65/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_M4Sport.hu",M4 SPORT
 http://iptvlive.stream:80/p/945923/c/66/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -321,47 +317,47 @@ http://iptvlive.stream:80/p/945923/c/68/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/945923/c/69/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Minimax.hu",MINIMAX
 http://iptvlive.stream:80/p/945923/c/71/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MoziPlus.hu",mozi+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MoziPlus.hu",mozi+
 http://iptvlive.stream:80/p/945923/c/72/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_MusicChannel.hu",Music Channel
+#EXTINF:-1 group-title="1" tvg-id="1767993021_MusicChannel.hu",Music Channel
 http://iptvlive.stream:80/p/945923/c/77/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_MuzsikaTV.hu",MUZSIKA TV
 http://iptvlive.stream:80/p/945923/c/78/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_OzoneNetwork.hu",Ozone tv
+#EXTINF:-1 group-title="1" tvg-id="1767993021_OzoneNetwork.hu",Ozone tv
 http://iptvlive.stream:80/p/945923/c/81/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_PAXTV.hu",pax
 http://iptvlive.stream:80/p/945923/c/83/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Prime.hu",prime
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Prime.hu",prime
 http://iptvlive.stream:80/p/945923/c/85/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_RTLGold.hu",RTL GOLD
+#EXTINF:-1 group-title="1" tvg-id="1767993021_RTLGold.hu",RTL GOLD
 http://iptvlive.stream:80/p/945923/c/86/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_RTLKlub.hu",RTL KLUB
 http://iptvlive.stream:80/p/945923/c/87/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_RTLplus.hu",RTL+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_RTLplus.hu",RTL+
 http://iptvlive.stream:80/p/945923/c/88/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SonyMovieChannel.hu",SONY Movie Channel
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SonyMovieChannel.hu",SONY Movie Channel
 http://iptvlive.stream:80/p/945923/c/89/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Sorozat.hu",SOROZAT+
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Sorozat.hu",SOROZAT+
 http://iptvlive.stream:80/p/945923/c/90/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Spektrum.hu",SPEKTRUM
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Spektrum.hu",SPEKTRUM
 http://iptvlive.stream:80/p/945923/c/91/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SpektrumHome.hu",SPEKTRUM home
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SpektrumHome.hu",SPEKTRUM home
 http://iptvlive.stream:80/p/945923/c/92/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport1.hu",SPORT1 hu
 http://iptvlive.stream:80/p/945923/c/93/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_Sport2.hu",SPORT2 hu
 http://iptvlive.stream:80/p/945923/c/94/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_HISTORY.hu",Story4
+#EXTINF:-1 group-title="1" tvg-id="1767993021_HISTORY.hu",Story4
 http://iptvlive.stream:80/p/945923/c/95/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_SuperTV2.hu",super tv2 hd
+#EXTINF:-1 group-title="1" tvg-id="1767993021_SuperTV2.hu",super tv2 hd
 http://iptvlive.stream:80/p/945923/c/96/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_TVPaprika.hu",tv Paprika
+#EXTINF:-1 group-title="1" tvg-id="1767993021_TVPaprika.hu",tv Paprika
 http://iptvlive.stream:80/p/945923/c/97/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_tv2.hu",tv2 hd
 http://iptvlive.stream:80/p/945923/c/98/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_TV4.hu",tv4 hu
+#EXTINF:-1 group-title="1" tvg-id="1767993021_TV4.hu",tv4 hu
 http://iptvlive.stream:80/p/945923/c/99/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_ViasatNature.hu",viasat nature
+#EXTINF:-1 group-title="1" tvg-id="1767993021_ViasatNature.hu",viasat nature
 http://iptvlive.stream:80/p/945923/c/101/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_DigiSport2.hu",DIGI Sport 2 HD HU
 http://iptvlive.stream:80/p/877093/c/1/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
@@ -371,13 +367,1175 @@ http://iptvlive.stream:80/p/877093/c/2/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 http://iptvlive.stream:80/p/877093/c/4/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_RTLKlub.hu",RTL Klub HD HU
 http://iptvlive.stream:80/p/877093/c/5/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_FilmPlus.hu",Film+ HU
+#EXTINF:-1 group-title="1" tvg-id="1767993021_FilmPlus.hu",Film+ HU
 http://iptvlive.stream:80/p/877093/c/6/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_RTLKlub.hu",RTL Klub HU
 http://iptvlive.stream:80/p/877093/c/7/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Cool.hu",cool
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Cool.hu",cool
 http://iptvlive.stream:80/p/877093/c/8/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
-#EXTINF:-1 tvg-id="1767993021_Filmnow.hu",FilmNow HU
+#EXTINF:-1 group-title="1" tvg-id="1767993021_Filmnow.hu",FilmNow HU
 http://iptvlive.stream:80/p/877093/c/9/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
 #EXTINF:-1 group-title="nem érdekel" tvg-id="1767993021_tv2.hu",TV2 HU
 http://iptvlive.stream:80/p/877093/c/10/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL
+http://iptvlive.stream:80/p/472804/c/1/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SAT.1
+http://iptvlive.stream:80/p/472804/c/2/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 1 Hu
+http://iptvlive.stream:80/p/472804/c/3/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 2 Hu
+http://iptvlive.stream:80/p/472804/c/4/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sundance TV
+http://iptvlive.stream:80/p/472804/c/5/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Comedy Central Hu
+http://iptvlive.stream:80/p/472804/c/6/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV Hits
+http://iptvlive.stream:80/p/472804/c/7/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cinemax Hu
+http://iptvlive.stream:80/p/472804/c/8/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spektrum Hu
+http://iptvlive.stream:80/p/472804/c/9/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Boomerang Hu
+http://iptvlive.stream:80/p/472804/c/10/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV5MONDE EUROPE
+http://iptvlive.stream:80/p/472804/c/11/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nick JR Hu
+http://iptvlive.stream:80/p/472804/c/12/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NTDTV
+http://iptvlive.stream:80/p/472804/c/13/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Motorsport TV
+http://iptvlive.stream:80/p/472804/c/14/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Prime hu
+http://iptvlive.stream:80/p/472804/c/15/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Digital1
+http://iptvlive.stream:80/p/472804/c/17/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cartoon Network hu cz
+http://iptvlive.stream:80/p/472804/c/18/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV hu
+http://iptvlive.stream:80/p/472804/c/19/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VH1 Classic
+http://iptvlive.stream:80/p/472804/c/20/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV hu
+http://iptvlive.stream:80/p/472804/c/21/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ESP Hu
+http://iptvlive.stream:80/p/472804/c/22/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ESP2 Hu
+http://iptvlive.stream:80/p/472804/c/23/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CNN Int
+http://iptvlive.stream:80/p/472804/c/24/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nickelodeon hu
+http://iptvlive.stream:80/p/472804/c/25/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Rai1
+http://iptvlive.stream:80/p/472804/c/27/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AlJazeera English
+http://iptvlive.stream:80/p/472804/c/28/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Duna
+http://iptvlive.stream:80/p/472804/c/29/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Первый канал
+http://iptvlive.stream:80/p/472804/c/30/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Discovery hu
+http://iptvlive.stream:80/p/472804/c/32/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Digi Sport 2 HD
+http://iptvlive.stream:80/p/472804/c/33/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO hu
+http://iptvlive.stream:80/p/472804/c/35/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 2 HD 720
+http://iptvlive.stream:80/p/472804/c/36/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 1
+http://iptvlive.stream:80/p/472804/c/37/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PRIVATE
+http://iptvlive.stream:80/p/472804/c/40/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nat Geo Wild
+http://iptvlive.stream:80/p/472804/c/42/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M1 hu
+http://iptvlive.stream:80/p/472804/c/43/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL Klub
+http://iptvlive.stream:80/p/472804/c/44/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV2 hu
+http://iptvlive.stream:80/p/472804/c/45/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Mako TV
+http://iptvlive.stream:80/p/472804/c/46/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Bonum TV
+http://iptvlive.stream:80/p/472804/c/47/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Animal World HD
+http://iptvlive.stream:80/p/472804/c/48/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Digital1
+http://iptvlive.stream:80/p/472804/c/50/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Vac TV
+http://iptvlive.stream:80/p/472804/c/51/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SLAGER TV
+http://iptvlive.stream:80/p/472804/c/52/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Duna Media
+http://iptvlive.stream:80/p/472804/c/53/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Discovery Showcase HD hu
+http://iptvlive.stream:80/p/472804/c/54/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,History HD
+http://iptvlive.stream:80/p/472804/c/55/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OZON
+http://iptvlive.stream:80/p/472804/c/56/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,LIFE hu
+http://iptvlive.stream:80/p/472804/c/57/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,STORY4
+http://iptvlive.stream:80/p/472804/c/58/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Fo
+http://iptvlive.stream:80/p/472804/c/59/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Viasat 3
+http://iptvlive.stream:80/p/472804/c/60/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Viasat 6
+http://iptvlive.stream:80/p/472804/c/61/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Duna World
+http://iptvlive.stream:80/p/472804/c/62/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmBox Arthouse
+http://iptvlive.stream:80/p/472804/c/63/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VH1
+http://iptvlive.stream:80/p/472804/c/64/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FIT HD
+http://iptvlive.stream:80/p/472804/c/66/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VTV SZEGED
+http://iptvlive.stream:80/p/472804/c/67/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,JimJam
+http://iptvlive.stream:80/p/472804/c/68/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Muzsika TV
+http://iptvlive.stream:80/p/472804/c/70/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Megamax
+http://iptvlive.stream:80/p/472804/c/71/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Mozi+
+http://iptvlive.stream:80/p/472804/c/72/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Premium
+http://iptvlive.stream:80/p/472804/c/73/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,hir TV
+http://iptvlive.stream:80/p/472804/c/74/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Fishing&amp;Hunting
+http://iptvlive.stream:80/p/472804/c/75/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL Gold
+http://iptvlive.stream:80/p/472804/c/76/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL2
+http://iptvlive.stream:80/p/472804/c/77/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sorozat+
+http://iptvlive.stream:80/p/472804/c/78/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TRAVEL CHANNEL
+http://iptvlive.stream:80/p/472804/c/79/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film Cafe
+http://iptvlive.stream:80/p/472804/c/80/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmBox
+http://iptvlive.stream:80/p/472804/c/81/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M1 HD
+http://iptvlive.stream:80/p/472804/c/82/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M2 HD
+http://iptvlive.stream:80/p/472804/c/83/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Plus
+http://iptvlive.stream:80/p/472804/c/85/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Family
+http://iptvlive.stream:80/p/472804/c/86/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HustlerTV
+http://iptvlive.stream:80/p/472804/c/87/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TRAVEL HD
+http://iptvlive.stream:80/p/472804/c/88/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV Live HD
+http://iptvlive.stream:80/p/472804/c/89/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spektrum HD
+http://iptvlive.stream:80/p/472804/c/90/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nickelodeon HD
+http://iptvlive.stream:80/p/472804/c/91/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvlive.stream:80/p/472804/c/92/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M2 hu
+http://iptvlive.stream:80/p/472804/c/94/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_NationalGeographic.hu",Nat Geo HD
+http://iptvlive.stream:80/p/472804/c/95/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Disney hu
+http://iptvlive.stream:80/p/472804/c/97/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SuperOne
+http://iptvlive.stream:80/p/472804/c/98/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spektrum Home
+http://iptvlive.stream:80/p/472804/c/99/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SUPERONE HD
+http://iptvlive.stream:80/p/472804/c/100/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Petofi Radio
+http://iptvlive.stream:80/p/472804/c/101/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Kossuth Radio
+http://iptvlive.stream:80/p/472804/c/102/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL2
+http://iptvlive.stream:80/p/472804/c/104/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cool HD
+http://iptvlive.stream:80/p/472804/c/105/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film+ HD hu
+http://iptvlive.stream:80/p/472804/c/106/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Klub Radio 1
+http://iptvlive.stream:80/p/472804/c/107/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Bartok Radio
+http://iptvlive.stream:80/p/472804/c/108/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,N/A
+http://iptvlive.stream:80/p/472804/c/109/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M4 Sport
+http://iptvlive.stream:80/p/472804/c/110/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M4 HD
+http://iptvlive.stream:80/p/472804/c/111/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M4 HD 720
+http://iptvlive.stream:80/p/472804/c/112/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Viasat Explore/Spice
+http://iptvlive.stream:80/p/472804/c/113/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTR Planeta
+http://iptvlive.stream:80/p/472804/c/114/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TVP Polonia
+http://iptvlive.stream:80/p/472804/c/115/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 3 HD
+http://iptvlive.stream:80/p/472804/c/116/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Music Channel HD
+http://iptvlive.stream:80/p/472804/c/117/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Duna World HD
+http://iptvlive.stream:80/p/472804/c/118/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ID Xtra
+http://iptvlive.stream:80/p/472804/c/119/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SRV_01
+http://iptvlive.stream:80/p/472804/c/120/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 3 HD 720
+http://iptvlive.stream:80/p/472804/c/121/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AMC HD hu
+http://iptvlive.stream:80/p/472804/c/122/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AMC HD 720 hu
+http://iptvlive.stream:80/p/472804/c/123/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV HD hu
+http://iptvlive.stream:80/p/472804/c/124/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATVHD720
+http://iptvlive.stream:80/p/472804/c/125/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film Cafe HD
+http://iptvlive.stream:80/p/472804/c/126/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmCafeHD720
+http://iptvlive.stream:80/p/472804/c/127/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Super TV2
+http://iptvlive.stream:80/p/472804/c/128/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TLC hu
+http://iptvlive.stream:80/p/472804/c/129/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Minimax/C8 Hu
+http://iptvlive.stream:80/p/472804/c/130/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PuskasTV
+http://iptvlive.stream:80/p/472804/c/131/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M5
+http://iptvlive.stream:80/p/472804/c/132/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M5HD
+http://iptvlive.stream:80/p/472804/c/133/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FishingandHuntingHD
+http://iptvlive.stream:80/p/472804/c/134/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spiler 1
+http://iptvlive.stream:80/p/472804/c/137/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,IzauraTV
+http://iptvlive.stream:80/p/472804/c/138/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spiler 1 HD
+http://iptvlive.stream:80/p/472804/c/139/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spiler 1 HD 720
+http://iptvlive.stream:80/p/472804/c/140/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTLSpike
+http://iptvlive.stream:80/p/472804/c/141/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Humor+
+http://iptvlive.stream:80/p/472804/c/144/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,LiChi TV
+http://iptvlive.stream:80/p/472804/c/145/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KiwiTV
+http://iptvlive.stream:80/p/472804/c/146/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Fem3
+http://iptvlive.stream:80/p/472804/c/147/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Jocky TV
+http://iptvlive.stream:80/p/472804/c/148/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Moziverzum
+http://iptvlive.stream:80/p/472804/c/149/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cool HD
+http://iptvlive.stream:80/p/472804/c/152/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film+ HD 720 hu
+http://iptvlive.stream:80/p/472804/c/153/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTLKlubHD
+http://iptvlive.stream:80/p/472804/c/154/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTLHD
+http://iptvlive.stream:80/p/472804/c/155/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Life HD hu 720
+http://iptvlive.stream:80/p/472804/c/156/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Life HD hu
+http://iptvlive.stream:80/p/472804/c/158/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FoodNetworkHD
+http://iptvlive.stream:80/p/472804/c/159/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Paramount hu
+http://iptvlive.stream:80/p/472804/c/160/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Mozi+HD
+http://iptvlive.stream:80/p/472804/c/161/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PaprikaTV
+http://iptvlive.stream:80/p/472804/c/162/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SomogyTV
+http://iptvlive.stream:80/p/472804/c/163/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTVMusic24
+http://iptvlive.stream:80/p/472804/c/164/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RomanceTV
+http://iptvlive.stream:80/p/472804/c/165/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,d1
+http://iptvlive.stream:80/p/472804/c/166/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Eurosport2HD
+http://iptvlive.stream:80/p/472804/c/178/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Eurosport1HD
+http://iptvlive.stream:80/p/472804/c/179/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AXN HD hu cz
+http://iptvlive.stream:80/p/472804/c/180/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ParamountHD
+http://iptvlive.stream:80/p/472804/c/181/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,IPTVmatrix
+http://iptvlive.stream:80/p/472804/c/186/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DTVmatrix
+http://iptvlive.stream:80/p/472804/c/187/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FIT HD
+http://iptvlive.stream:80/p/472804/c/189/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FITHD4.5Mbps
+http://iptvlive.stream:80/p/472804/c/190/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Paprika
+http://iptvlive.stream:80/p/472804/c/191/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Arte
+http://iptvlive.stream:80/p/472804/c/192/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTVDance
+http://iptvlive.stream:80/p/472804/c/193/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTVRocks
+http://iptvlive.stream:80/p/472804/c/194/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DW
+http://iptvlive.stream:80/p/472804/c/195/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DuckTV
+http://iptvlive.stream:80/p/472804/c/196/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cinemax 2
+http://iptvlive.stream:80/p/472804/c/197/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO2
+http://iptvlive.stream:80/p/472804/c/198/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmMania
+http://iptvlive.stream:80/p/472804/c/199/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO3
+http://iptvlive.stream:80/p/472804/c/200/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TVE
+http://iptvlive.stream:80/p/472804/c/201/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DavinciLearning
+http://iptvlive.stream:80/p/472804/c/202/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Galaxy/4
+http://iptvlive.stream:80/p/472804/c/203/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AXN hu
+http://iptvlive.stream:80/p/472804/c/204/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ParamountChannel
+http://iptvlive.stream:80/p/472804/c/205/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sony
+http://iptvlive.stream:80/p/472804/c/206/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sony Max
+http://iptvlive.stream:80/p/472804/c/207/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGILifeHD
+http://iptvlive.stream:80/p/472804/c/208/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGIWorldHDhu
+http://iptvlive.stream:80/p/472804/c/209/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NationalGeographic
+http://iptvlive.stream:80/p/472804/c/210/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 2 hu
+http://iptvlive.stream:80/p/472804/c/211/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 2 HD hu
+http://iptvlive.stream:80/p/472804/c/212/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DigiSport2
+http://iptvlive.stream:80/p/472804/c/213/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DigiAnimalWorld
+http://iptvlive.stream:80/p/472804/c/214/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DigiLife
+http://iptvlive.stream:80/p/472804/c/215/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Digi World hu
+http://iptvlive.stream:80/p/472804/c/216/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film Now hu
+http://iptvlive.stream:80/p/472804/c/217/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTLKLUBHD
+http://iptvlive.stream:80/p/472804/c/218/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DigiSport3
+http://iptvlive.stream:80/p/472804/c/219/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ComedyCentral
+http://iptvlive.stream:80/p/472804/c/220/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PAX
+http://iptvlive.stream:80/p/472804/c/221/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Koros
+http://iptvlive.stream:80/p/472804/c/222/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AMC
+http://iptvlive.stream:80/p/472804/c/223/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,4Story
+http://iptvlive.stream:80/p/472804/c/224/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Hatos
+http://iptvlive.stream:80/p/472804/c/225/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HitmusicHU
+http://iptvlive.stream:80/p/472804/c/226/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV2 HD hu
+http://iptvlive.stream:80/p/472804/c/227/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Super TV2 HD
+http://iptvlive.stream:80/p/472804/c/228/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL+
+http://iptvlive.stream:80/p/472804/c/229/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,1MusicChannel
+http://iptvlive.stream:80/p/472804/c/230/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SzentesTV
+http://iptvlive.stream:80/p/472804/c/231/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M1HD
+http://iptvlive.stream:80/p/472804/c/232/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M2HD
+http://iptvlive.stream:80/p/472804/c/233/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DunaHD
+http://iptvlive.stream:80/p/472804/c/234/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 1 HD hu
+http://iptvlive.stream:80/p/472804/c/236/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO HD
+http://iptvlive.stream:80/p/472804/c/237/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DunaHD
+http://iptvlive.stream:80/p/472804/c/238/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OzoneHD
+http://iptvlive.stream:80/p/472804/c/239/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DigiSport1HD
+http://iptvlive.stream:80/p/472804/c/240/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBOHD
+http://iptvlive.stream:80/p/472804/c/241/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmBox Etra HD
+http://iptvlive.stream:80/p/472804/c/242/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 1 HD hu
+http://iptvlive.stream:80/p/472804/c/243/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,History
+http://iptvlive.stream:80/p/472804/c/244/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV2 HD hu
+http://iptvlive.stream:80/p/472804/c/245/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Super TV2 HD
+http://iptvlive.stream:80/p/472804/c/246/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BabyTV
+http://iptvlive.stream:80/p/472804/c/247/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Digi Sport 1 HD
+http://iptvlive.stream:80/p/472804/c/248/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Radio
+http://iptvlive.stream:80/p/472804/c/249/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OzoneHD
+http://iptvlive.stream:80/p/472804/c/250/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CoolTV
+http://iptvlive.stream:80/p/472804/c/251/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmBox Extra HD
+http://iptvlive.stream:80/p/472804/c/252/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM+
+http://iptvlive.stream:80/p/472804/c/253/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SpectrumHD
+http://iptvlive.stream:80/p/472804/c/254/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTVLiveHD
+http://iptvlive.stream:80/p/472804/c/255/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NickelodeonHD
+http://iptvlive.stream:80/p/472804/c/256/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NatGeoWildHD
+http://iptvlive.stream:80/p/472804/c/257/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Eurosport1HD
+http://iptvlive.stream:80/p/472804/c/258/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Eurosport2HD
+http://iptvlive.stream:80/p/472804/c/259/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TravelHD
+http://iptvlive.stream:80/p/472804/c/260/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HistoryHD
+http://iptvlive.stream:80/p/472804/c/261/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NationalGeographicHD
+http://iptvlive.stream:80/p/472804/c/262/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Radio
+http://iptvlive.stream:80/p/472804/c/263/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Radio
+http://iptvlive.stream:80/p/472804/c/264/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Radio
+http://iptvlive.stream:80/p/472804/c/265/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Radio
+http://iptvlive.stream:80/p/472804/c/267/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Invitel
+http://iptvlive.stream:80/p/472804/c/268/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ViasatHistory
+http://iptvlive.stream:80/p/472804/c/269/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ViasatNature
+http://iptvlive.stream:80/p/472804/c/270/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,24КаналУкраина
+http://iptvlive.stream:80/p/472804/c/271/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KIKA
+http://iptvlive.stream:80/p/472804/c/273/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ProSieben
+http://iptvlive.stream:80/p/472804/c/274/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SkyNews
+http://iptvlive.stream:80/p/472804/c/275/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RomaniaTV
+http://iptvlive.stream:80/p/472804/c/276/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Balaton
+http://iptvlive.stream:80/p/472804/c/277/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,*KurcaTV
+http://iptvlive.stream:80/p/472804/c/278/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,*CSobaTV
+http://iptvlive.stream:80/p/472804/c/279/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1",HBO
+http://iptvlive.stream:80/p/472804/c/280/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,*MusicTV
+http://iptvlive.stream:80/p/472804/c/281/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,*BajaiTV
+http://iptvlive.stream:80/p/472804/c/282/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,*DRM
+http://iptvlive.stream:80/p/472804/c/285/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Satellite TV
+http://iptvlive.stream:80/p/472804/c/288/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EuroSportHD
+http://iptvlive.stream:80/p/472804/c/289/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VIASAT3
+http://iptvlive.stream:80/p/472804/c/290/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CoolHD
+http://iptvlive.stream:80/p/472804/c/291/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SUPERONEHD_HD
+http://iptvlive.stream:80/p/472804/c/292/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EuroSport2
+http://iptvlive.stream:80/p/472804/c/293/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M1HD
+http://iptvlive.stream:80/p/472804/c/294/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M4
+http://iptvlive.stream:80/p/472804/c/295/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Mozi+
+http://iptvlive.stream:80/p/472804/c/296/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M4HD
+http://iptvlive.stream:80/p/472804/c/297/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ViasatNature
+http://iptvlive.stream:80/p/472804/c/298/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DaVinciLearning
+http://iptvlive.stream:80/p/472804/c/300/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,JimJam
+http://iptvlive.stream:80/p/472804/c/302/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film Now hu
+http://iptvlive.stream:80/p/472804/c/303/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spike Hu
+http://iptvlive.stream:80/p/472804/c/304/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DTX hu
+http://iptvlive.stream:80/p/472804/c/305/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Animal World  ready
+http://iptvlive.stream:80/p/472804/c/306/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Life ready
+http://iptvlive.stream:80/p/472804/c/307/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI World ready
+http://iptvlive.stream:80/p/472804/c/308/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film/4
+http://iptvlive.stream:80/p/472804/c/310/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spiler 2 TV
+http://iptvlive.stream:80/p/472804/c/311/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spiler 2 TV HD
+http://iptvlive.stream:80/p/472804/c/312/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VIASAT 3 HD
+http://iptvlive.stream:80/p/472804/c/314/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV Spirit HD
+http://iptvlive.stream:80/p/472804/c/315/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PUSKAS TV HU
+http://iptvlive.stream:80/p/472804/c/316/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M5 HU
+http://iptvlive.stream:80/p/472804/c/317/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M5 MINI HD HU
+http://iptvlive.stream:80/p/472804/c/318/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,dikh tv
+http://iptvlive.stream:80/p/472804/c/320/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,dikh tv-medium HD
+http://iptvlive.stream:80/p/472804/c/321/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,dikh tv-low HD
+http://iptvlive.stream:80/p/472804/c/322/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Info
+http://iptvlive.stream:80/p/472804/c/323/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AMC n/a
+http://iptvlive.stream:80/p/472804/c/324/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FIT HD
+http://iptvlive.stream:80/p/472804/c/325/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV Paprika
+http://iptvlive.stream:80/p/472804/c/326/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL
+http://iptvlive.stream:80/p/472804/c/327/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SAT1
+http://iptvlive.stream:80/p/472804/c/328/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 1 hu
+http://iptvlive.stream:80/p/472804/c/329/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nicktoons
+http://iptvlive.stream:80/p/472804/c/330/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sport 2 hu
+http://iptvlive.stream:80/p/472804/c/331/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV DANCE
+http://iptvlive.stream:80/p/472804/c/332/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,arte
+http://iptvlive.stream:80/p/472804/c/333/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Comedy Central
+http://iptvlive.stream:80/p/472804/c/334/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV Hits
+http://iptvlive.stream:80/p/472804/c/335/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV ROCKS
+http://iptvlive.stream:80/p/472804/c/336/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film Now hu
+http://iptvlive.stream:80/p/472804/c/337/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,3 sat
+http://iptvlive.stream:80/p/472804/c/338/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL Spike
+http://iptvlive.stream:80/p/472804/c/339/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,duck tv
+http://iptvlive.stream:80/p/472804/c/340/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cinemax
+http://iptvlive.stream:80/p/472804/c/341/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,cinemax2
+http://iptvlive.stream:80/p/472804/c/342/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO2
+http://iptvlive.stream:80/p/472804/c/343/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Boomerang
+http://iptvlive.stream:80/p/472804/c/344/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spektrum
+http://iptvlive.stream:80/p/472804/c/345/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM MANIA
+http://iptvlive.stream:80/p/472804/c/346/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV5 MONDE EUROPE
+http://iptvlive.stream:80/p/472804/c/347/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Minimax
+http://iptvlive.stream:80/p/472804/c/348/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nick JR.
+http://iptvlive.stream:80/p/472804/c/349/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO3
+http://iptvlive.stream:80/p/472804/c/350/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NTDTV
+http://iptvlive.stream:80/p/472804/c/351/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,tve
+http://iptvlive.stream:80/p/472804/c/352/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Prime
+http://iptvlive.stream:80/p/472804/c/354/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Cartoon Network
+http://iptvlive.stream:80/p/472804/c/355/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV
+http://iptvlive.stream:80/p/472804/c/356/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VH1 Classic
+http://iptvlive.stream:80/p/472804/c/357/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV hu
+http://iptvlive.stream:80/p/472804/c/358/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Eurosport
+http://iptvlive.stream:80/p/472804/c/359/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CNN
+http://iptvlive.stream:80/p/472804/c/360/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nickelodeon
+http://iptvlive.stream:80/p/472804/c/361/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Rai Uno
+http://iptvlive.stream:80/p/472804/c/362/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Al Jazeera English
+http://iptvlive.stream:80/p/472804/c/363/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Duna
+http://iptvlive.stream:80/p/472804/c/364/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Первый канал
+http://iptvlive.stream:80/p/472804/c/365/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Discovery Channel
+http://iptvlive.stream:80/p/472804/c/366/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DTX
+http://iptvlive.stream:80/p/472804/c/367/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 2 HD
+http://iptvlive.stream:80/p/472804/c/368/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO hu
+http://iptvlive.stream:80/p/472804/c/369/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 2 HD
+http://iptvlive.stream:80/p/472804/c/370/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Galaxy4
+http://iptvlive.stream:80/p/472804/c/372/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Sport 1
+http://iptvlive.stream:80/p/472804/c/373/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Private TV
+http://iptvlive.stream:80/p/472804/c/375/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nat Geo Wild
+http://iptvlive.stream:80/p/472804/c/376/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AXN
+http://iptvlive.stream:80/p/472804/c/378/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Paramount channel
+http://iptvlive.stream:80/p/472804/c/379/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SONY
+http://iptvlive.stream:80/p/472804/c/380/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sony Max
+http://iptvlive.stream:80/p/472804/c/381/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M1 hu
+http://iptvlive.stream:80/p/472804/c/382/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL Klub
+http://iptvlive.stream:80/p/472804/c/383/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV2 hu
+http://iptvlive.stream:80/p/472804/c/384/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MakoTV
+http://iptvlive.stream:80/p/472804/c/385/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BonumTV
+http://iptvlive.stream:80/p/472804/c/386/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Animal World
+http://iptvlive.stream:80/p/472804/c/387/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI World
+http://iptvlive.stream:80/p/472804/c/388/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI Life
+http://iptvlive.stream:80/p/472804/c/389/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,GYTV HD
+http://iptvlive.stream:80/p/472804/c/390/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,National Geographic
+http://iptvlive.stream:80/p/472804/c/391/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPORT 2 HD hu
+http://iptvlive.stream:80/p/472804/c/392/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 2
+http://iptvlive.stream:80/p/472804/c/393/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPORT 2 HD hu 720
+http://iptvlive.stream:80/p/472804/c/394/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI life
+http://iptvlive.stream:80/p/472804/c/395/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI ANIMAL WORLD
+http://iptvlive.stream:80/p/472804/c/396/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI WORLD
+http://iptvlive.stream:80/p/472804/c/397/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Film Now hu
+http://iptvlive.stream:80/p/472804/c/398/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Digital 1
+http://iptvlive.stream:80/p/472804/c/399/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Singer tv
+http://iptvlive.stream:80/p/472804/c/400/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DunaMedia
+http://iptvlive.stream:80/p/472804/c/401/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Discovery Showcase HD hu
+http://iptvlive.stream:80/p/472804/c/402/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL Klub HD
+http://iptvlive.stream:80/p/472804/c/403/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGISPORT3 HD
+http://iptvlive.stream:80/p/472804/c/404/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HISTORY HD
+http://iptvlive.stream:80/p/472804/c/405/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Ozone TV
+http://iptvlive.stream:80/p/472804/c/406/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Life hu
+http://iptvlive.stream:80/p/472804/c/407/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Story4
+http://iptvlive.stream:80/p/472804/c/408/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VIASAT6
+http://iptvlive.stream:80/p/472804/c/409/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILMBOX Arthouse
+http://iptvlive.stream:80/p/472804/c/410/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Duna World SD
+http://iptvlive.stream:80/p/472804/c/411/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VH1 Europe
+http://iptvlive.stream:80/p/472804/c/412/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FIT HD
+http://iptvlive.stream:80/p/472804/c/414/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FAMILY
+http://iptvlive.stream:80/p/472804/c/415/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VTV SZEGED
+http://iptvlive.stream:80/p/472804/c/416/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Super TV2
+http://iptvlive.stream:80/p/472804/c/417/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PAX
+http://iptvlive.stream:80/p/472804/c/418/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Muzsika TV
+http://iptvlive.stream:80/p/472804/c/420/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KOROS HD
+http://iptvlive.stream:80/p/472804/c/421/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Megamax
+http://iptvlive.stream:80/p/472804/c/422/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AMC hu
+http://iptvlive.stream:80/p/472804/c/423/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TLC
+http://iptvlive.stream:80/p/472804/c/424/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Premium
+http://iptvlive.stream:80/p/472804/c/425/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV/4
+http://iptvlive.stream:80/p/472804/c/426/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Hatoscsatorna
+http://iptvlive.stream:80/p/472804/c/427/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HIT MUSIC
+http://iptvlive.stream:80/p/472804/c/428/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SUPER TV2 HD
+http://iptvlive.stream:80/p/472804/c/429/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV2 HD hu
+http://iptvlive.stream:80/p/472804/c/430/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,hir tv
+http://iptvlive.stream:80/p/472804/c/431/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL Gold
+http://iptvlive.stream:80/p/472804/c/432/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,The Fishing
+http://iptvlive.stream:80/p/472804/c/433/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL+
+http://iptvlive.stream:80/p/472804/c/434/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTLII
+http://iptvlive.stream:80/p/472804/c/435/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Sorozat
+http://iptvlive.stream:80/p/472804/c/436/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Szentes TV
+http://iptvlive.stream:80/p/472804/c/437/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,1 MUSIC CHANNEL
+http://iptvlive.stream:80/p/472804/c/438/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Travel
+http://iptvlive.stream:80/p/472804/c/439/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FilmBox
+http://iptvlive.stream:80/p/472804/c/440/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM CAFE
+http://iptvlive.stream:80/p/472804/c/441/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DUNA HD
+http://iptvlive.stream:80/p/472804/c/442/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MEDIASHOP HD
+http://iptvlive.stream:80/p/472804/c/444/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_HBO.hu",HBO HD
+http://iptvlive.stream:80/p/472804/c/445/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M2 HD
+http://iptvlive.stream:80/p/472804/c/446/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M1 HD
+http://iptvlive.stream:80/p/472804/c/447/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DUNA HD
+http://iptvlive.stream:80/p/472804/c/448/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO HD
+http://iptvlive.stream:80/p/472804/c/449/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGISPORT1 HD
+http://iptvlive.stream:80/p/472804/c/450/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OZONE HD
+http://iptvlive.stream:80/p/472804/c/451/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Plus
+http://iptvlive.stream:80/p/472804/c/452/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Family
+http://iptvlive.stream:80/p/472804/c/453/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Filmbox Extra HD
+http://iptvlive.stream:80/p/472804/c/454/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MEDIASHOP HD
+http://iptvlive.stream:80/p/472804/c/455/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AXN HD hu cz en
+http://iptvlive.stream:80/p/472804/c/456/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HISTORY
+http://iptvlive.stream:80/p/472804/c/457/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV2 HD hu
+http://iptvlive.stream:80/p/472804/c/458/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SUPER TV2 HD
+http://iptvlive.stream:80/p/472804/c/459/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HUSTLER
+http://iptvlive.stream:80/p/472804/c/460/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Eurosport 2 HD
+http://iptvlive.stream:80/p/472804/c/461/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV Live HD
+http://iptvlive.stream:80/p/472804/c/462/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Travel EMEA HD
+http://iptvlive.stream:80/p/472804/c/463/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Spektrum HD
+http://iptvlive.stream:80/p/472804/c/464/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvlive.stream:80/p/472804/c/465/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Nickelodeon HD
+http://iptvlive.stream:80/p/472804/c/466/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Radio
+http://iptvlive.stream:80/p/472804/c/467/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MEZZO
+http://iptvlive.stream:80/p/472804/c/468/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HGTV
+http://iptvlive.stream:80/p/472804/c/469/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTV Esztergom HD
+http://iptvlive.stream:80/p/472804/c/470/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,superone HD
+http://iptvlive.stream:80/p/472804/c/471/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Esztergomi KTV
+http://iptvlive.stream:80/p/472804/c/472/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Viasat Nature HD
+http://iptvlive.stream:80/p/472804/c/473/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Viasat History HD
+http://iptvlive.stream:80/p/472804/c/474/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BBC EARTH
+http://iptvlive.stream:80/p/472804/c/475/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BLOOMBERG
+http://iptvlive.stream:80/p/472804/c/476/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CBS REALITY
+http://iptvlive.stream:80/p/472804/c/477/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,F&H HD HU
+http://iptvlive.stream:80/p/472804/c/478/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPILER 1 HU
+http://iptvlive.stream:80/p/472804/c/479/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,IZAURA TV HU
+http://iptvlive.stream:80/p/472804/c/480/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPILER 1 TV HD HU
+http://iptvlive.stream:80/p/472804/c/481/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPILER TV 1 MINI HD HU
+http://iptvlive.stream:80/p/472804/c/482/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KURCA TV HU
+http://iptvlive.stream:80/p/472804/c/483/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL SPIKE HU
+http://iptvlive.stream:80/p/472804/c/484/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CSABA TV HU
+http://iptvlive.stream:80/p/472804/c/485/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO HU
+http://iptvlive.stream:80/p/472804/c/486/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ZENEBUTIK HU
+http://iptvlive.stream:80/p/472804/c/487/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HUMOR+ HU
+http://iptvlive.stream:80/p/472804/c/488/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,LICHI TV HU
+http://iptvlive.stream:80/p/472804/c/489/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KIWI TV HU
+http://iptvlive.stream:80/p/472804/c/490/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FEM3 HU
+http://iptvlive.stream:80/p/472804/c/491/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,JOCKY TV HU
+http://iptvlive.stream:80/p/472804/c/492/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MOZIVERZUM HU
+http://iptvlive.stream:80/p/472804/c/493/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,COOL MINI HD HU
+http://iptvlive.stream:80/p/472804/c/496/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM+ MINI HD HU
+http://iptvlive.stream:80/p/472804/c/497/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL KLUB MINI HD HU
+http://iptvlive.stream:80/p/472804/c/498/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL II HD HU
+http://iptvlive.stream:80/p/472804/c/499/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,LIFE MINI HD  HU
+http://iptvlive.stream:80/p/472804/c/500/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PARAMOUNTH MINI HD HU  HU
+http://iptvlive.stream:80/p/472804/c/502/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,LIFE HD HU
+http://iptvlive.stream:80/p/472804/c/503/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FOOD NETWORK HD HU
+http://iptvlive.stream:80/p/472804/c/504/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PARAMOUNTH CHANNEL HD HU
+http://iptvlive.stream:80/p/472804/c/505/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MOZI+ HD HU
+http://iptvlive.stream:80/p/472804/c/506/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BAJ TV HU
+http://iptvlive.stream:80/p/472804/c/507/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PAPRIKA TV HD HU
+http://iptvlive.stream:80/p/472804/c/508/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SOMOGYI TV HU
+http://iptvlive.stream:80/p/472804/c/511/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV HU
+http://iptvlive.stream:80/p/472804/c/512/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Satellite TV HD HU
+http://iptvlive.stream:80/p/472804/c/513/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,D1 TV HU
+http://iptvlive.stream:80/p/472804/c/514/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPILER 2 HU
+http://iptvlive.stream:80/p/472804/c/516/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPILER 2 HD HU
+http://iptvlive.stream:80/p/472804/c/517/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPILER 2 HD HU
+http://iptvlive.stream:80/p/472804/c/518/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VIASAT 3 HD HU
+http://iptvlive.stream:80/p/472804/c/519/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV SPIRIT HD HU
+http://iptvlive.stream:80/p/472804/c/520/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DICKH TV HU
+http://iptvlive.stream:80/p/472804/c/521/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DICKH TV HD HU
+http://iptvlive.stream:80/p/472804/c/522/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DICKH TV HD HU
+http://iptvlive.stream:80/p/472804/c/523/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PAPRIKA TV HU
+http://iptvlive.stream:80/p/472804/c/524/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL DE
+http://iptvlive.stream:80/p/472804/c/525/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SAT 1 DE
+http://iptvlive.stream:80/p/472804/c/526/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPORT 1 HU
+http://iptvlive.stream:80/p/472804/c/527/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPORT 2 HU
+http://iptvlive.stream:80/p/472804/c/528/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NICK TOONS HU
+http://iptvlive.stream:80/p/472804/c/529/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ARTE DE
+http://iptvlive.stream:80/p/472804/c/530/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,COMEDY CENTRAL HU
+http://iptvlive.stream:80/p/472804/c/531/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV DANCE
+http://iptvlive.stream:80/p/472804/c/532/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV HITS
+http://iptvlive.stream:80/p/472804/c/533/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV ROCKS
+http://iptvlive.stream:80/p/472804/c/534/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM NOW HU
+http://iptvlive.stream:80/p/472804/c/535/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DW DE
+http://iptvlive.stream:80/p/472804/c/536/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL SPIKE HU
+http://iptvlive.stream:80/p/472804/c/537/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DUCK TV HU
+http://iptvlive.stream:80/p/472804/c/538/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CINEMAX HU
+http://iptvlive.stream:80/p/472804/c/539/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CINEMAX 2 HU
+http://iptvlive.stream:80/p/472804/c/540/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1",HBO 2 HU
+http://iptvlive.stream:80/p/472804/c/541/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPEKTRUM HU
+http://iptvlive.stream:80/p/472804/c/542/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BOOMERANG HU
+http://iptvlive.stream:80/p/472804/c/543/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM MANIA HU
+http://iptvlive.stream:80/p/472804/c/544/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV5 MONDE FR
+http://iptvlive.stream:80/p/472804/c/545/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MINIMAX HU
+http://iptvlive.stream:80/p/472804/c/546/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_HBO3.hu",HBO 3 HU
+http://iptvlive.stream:80/p/472804/c/547/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NICK JR HU
+http://iptvlive.stream:80/p/472804/c/548/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KINAI CSATORNA
+http://iptvlive.stream:80/p/472804/c/549/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPANYOL CSATORNA
+http://iptvlive.stream:80/p/472804/c/550/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DA VINCI LEARNING HU
+http://iptvlive.stream:80/p/472804/c/551/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PRIME HU
+http://iptvlive.stream:80/p/472804/c/552/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CARTOON NETWORK HU
+http://iptvlive.stream:80/p/472804/c/554/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV HU
+http://iptvlive.stream:80/p/472804/c/555/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VH CLASSIC 1 HU
+http://iptvlive.stream:80/p/472804/c/556/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV HU
+http://iptvlive.stream:80/p/472804/c/557/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EUROSPORT 1 HU
+http://iptvlive.stream:80/p/472804/c/558/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EUROSPORT 2 HU
+http://iptvlive.stream:80/p/472804/c/559/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,CNN EN
+http://iptvlive.stream:80/p/472804/c/560/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NICKELODEON HU
+http://iptvlive.stream:80/p/472804/c/561/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RAI 1 IT
+http://iptvlive.stream:80/p/472804/c/562/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ALJAZEERA EN
+http://iptvlive.stream:80/p/472804/c/563/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DUNA TV HU
+http://iptvlive.stream:80/p/472804/c/564/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OROSZ CSATORNA
+http://iptvlive.stream:80/p/472804/c/565/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DISCOVERY HU
+http://iptvlive.stream:80/p/472804/c/566/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DTX HU
+http://iptvlive.stream:80/p/472804/c/567/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 2 HD HU
+http://iptvlive.stream:80/p/472804/c/568/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HBO HU
+http://iptvlive.stream:80/p/472804/c/570/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 2 MINI HD
+http://iptvlive.stream:80/p/472804/c/571/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 1 HU
+http://iptvlive.stream:80/p/472804/c/572/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,GALAXY 4 HU
+http://iptvlive.stream:80/p/472804/c/573/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M2 HD HU
+http://iptvlive.stream:80/p/472804/c/575/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M2 HU
+http://iptvlive.stream:80/p/472804/c/576/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_NationalGeographic.hu",NAT GEO HD HU
+http://iptvlive.stream:80/p/472804/c/577/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BABY TV HU
+http://iptvlive.stream:80/p/472804/c/579/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 1 HD HU
+http://iptvlive.stream:80/p/472804/c/580/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EURONEWS HU
+http://iptvlive.stream:80/p/472804/c/581/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OZONE HD HU
+http://iptvlive.stream:80/p/472804/c/582/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,COOL TV HU
+http://iptvlive.stream:80/p/472804/c/583/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILMBOX EXTRA HD HU
+http://iptvlive.stream:80/p/472804/c/584/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM+ HU
+http://iptvlive.stream:80/p/472804/c/585/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPEKTRUM HD HU
+http://iptvlive.stream:80/p/472804/c/586/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DISNEY CHANNEL HU
+http://iptvlive.stream:80/p/472804/c/587/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MTV LIVE HD
+http://iptvlive.stream:80/p/472804/c/588/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NICK HD HU
+http://iptvlive.stream:80/p/472804/c/589/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,NAT GEO WILD HD HU
+http://iptvlive.stream:80/p/472804/c/590/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EUROSPORT 1 MINI HD HU
+http://iptvlive.stream:80/p/472804/c/591/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EUROSPORT 2 MINI HD
+http://iptvlive.stream:80/p/472804/c/592/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TRAVEL CHANNEL HD HU
+http://iptvlive.stream:80/p/472804/c/593/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HISTORY HD HU
+http://iptvlive.stream:80/p/472804/c/594/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 group-title="1" tvg-id="1767993021_NationalGeographic.hu",NAT GEO HD HU
+http://iptvlive.stream:80/p/472804/c/595/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SPEKTRUM HOME HU
+http://iptvlive.stream:80/p/472804/c/596/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/597/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/598/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/600/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/601/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/602/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RTL II HD HU
+http://iptvlive.stream:80/p/472804/c/605/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM+ HD HU
+http://iptvlive.stream:80/p/472804/c/606/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/607/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/608/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,RADIO
+http://iptvlive.stream:80/p/472804/c/609/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI ANIMAL WOLRD HD HU
+http://iptvlive.stream:80/p/472804/c/610/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI LIFE HD HU
+http://iptvlive.stream:80/p/472804/c/611/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI WORLD HD HU
+http://iptvlive.stream:80/p/472804/c/612/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,M4 SPORT HD HU
+http://iptvlive.stream:80/p/472804/c/613/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,INVITEL AJANLO HU
+http://iptvlive.stream:80/p/472804/c/614/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VIASAT EXPLOREL HU
+http://iptvlive.stream:80/p/472804/c/615/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,VIASAT HISTORY HU
+http://iptvlive.stream:80/p/472804/c/616/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,OROSZ CSATORNA
+http://iptvlive.stream:80/p/472804/c/617/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PLANETA RUS
+http://iptvlive.stream:80/p/472804/c/618/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV POLONIA
+http://iptvlive.stream:80/p/472804/c/619/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,KIKA TV
+http://iptvlive.stream:80/p/472804/c/621/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,PRO7 GE
+http://iptvlive.stream:80/p/472804/c/622/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ROMANIA TV RO
+http://iptvlive.stream:80/p/472804/c/624/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,BTV HU
+http://iptvlive.stream:80/p/472804/c/625/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 3 HD HU
+http://iptvlive.stream:80/p/472804/c/626/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,MUSIC CHANNEL HD HU
+http://iptvlive.stream:80/p/472804/c/627/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DUNA WORLD HD HU
+http://iptvlive.stream:80/p/472804/c/628/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DISCOVERY ID HU
+http://iptvlive.stream:80/p/472804/c/629/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TV7 HU
+http://iptvlive.stream:80/p/472804/c/630/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT MINI HD HU
+http://iptvlive.stream:80/p/472804/c/631/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,AMC HD HU
+http://iptvlive.stream:80/p/472804/c/632/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV HD HU
+http://iptvlive.stream:80/p/472804/c/634/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,ATV MINI HD HU
+http://iptvlive.stream:80/p/472804/c/635/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM CAFE HD HU
+http://iptvlive.stream:80/p/472804/c/636/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM CAFE MINI HD HU
+http://iptvlive.stream:80/p/472804/c/637/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Arena4
+http://iptvlive.stream:80/p/472804/c/638/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1 tvg-id="1767993021_DiscoveryScience.hu",Discovery Science
+http://iptvlive.stream:80/p/472804/c/639/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Animal Planet
+http://iptvlive.stream:80/p/472804/c/640/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Apostol TV
+http://iptvlive.stream:80/p/472804/c/641/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,English Club TV
+http://iptvlive.stream:80/p/472804/c/642/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,EroXXX
+http://iptvlive.stream:80/p/472804/c/643/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,Viasat Nature HD
+http://iptvlive.stream:80/p/472804/c/644/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FIGHT BOX
+http://iptvlive.stream:80/p/472804/c/645/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,HELYI TV
+http://iptvlive.stream:80/p/472804/c/646/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,TLC
+http://iptvlive.stream:80/p/472804/c/647/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FOOD NETWORK
+http://iptvlive.stream:80/p/472804/c/648/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM+ HD
+http://iptvlive.stream:80/p/472804/c/649/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 1 HD
+http://iptvlive.stream:80/p/472804/c/650/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,FILM+ HD
+http://iptvlive.stream:80/p/472804/c/651/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,DIGI SPORT 1 HD
+http://iptvlive.stream:80/p/472804/c/652/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
+#EXTINF:-1,SuperOne
+http://iptvlive.stream:80/p/472804/c/653/u/288332/KP9SAxNj7njf3XeRcGPHVVZQTewdwe
